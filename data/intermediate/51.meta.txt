@@ -1,0 +1,6 @@
+<root>
+	Employee ID     	_String
+	issues          	
+		OPEN            	_Int (_Opt)
+		IN_PROGRESS     	_Int (_Opt)
+		RESOLVED        	_Int (_Opt)

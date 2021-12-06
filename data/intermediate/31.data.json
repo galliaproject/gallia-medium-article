@@ -1,0 +1,21 @@
+{
+  "Employee ID": "e1",
+  "DOB": "1993-01-01",
+  "Title": "Software engineer",
+  "TPS reports": 0,
+  "Employee Satisfaction": "Abysmal",
+  "to_fire": false,
+  "Comment": "Must be provided with memo (again)",
+  "name": {
+    "first": "Peter",
+    "middle": "Ron",
+    "last": "Gibbons"
+  },
+  "Address": {
+    "number": 9,
+    "street": "Channel Street",
+    "city": "Houston",
+    "zip": 77001
+  },
+  "is_manager": false
+}

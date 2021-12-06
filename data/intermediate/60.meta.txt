@@ -1,0 +1,20 @@
+<root>
+	age             	_Int
+	title           	_String
+	tps_reports     	_Int
+	satisfaction_level	_Int
+	to_fire         	_Boolean
+	comment         	_String
+	name            	
+		last            	_String
+		given           	_String
+	address         	
+		number          	_Int
+		street          	_String
+		city            	_String
+		zip             	_Int
+	is_manager      	_Boolean
+	issues          	 (_Opt)
+		OPEN            	_Int (_Opt)
+		IN_PROGRESS     	_Int (_Opt)
+		RESOLVED        	_Int (_Opt)

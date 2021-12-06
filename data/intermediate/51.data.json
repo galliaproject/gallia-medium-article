@@ -1,0 +1,8 @@
+{
+  "Employee ID": "e1",
+  "issues": {
+    "RESOLVED": 1,
+    "IN_PROGRESS": 1,
+    "OPEN": 3
+  }
+}

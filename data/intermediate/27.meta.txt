@@ -1,0 +1,16 @@
+<root>
+	Employee ID     	_String
+	DOB             	_String
+	Address number  	_Int
+	Address street  	_String
+	Address city    	_String
+	Address zip     	_Int
+	Title           	_String
+	TPS reports     	_Int
+	Employee Satisfaction	_String
+	Good for the company?	_String
+	Comment         	_String
+	name            	
+		first           	_String
+		middle          	_String (_Opt)
+		last            	_String

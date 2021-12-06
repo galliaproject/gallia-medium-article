@@ -1,0 +1,43 @@
+{
+  "Employee ID": "e1",
+  "issues": [
+    {
+      "Issue ID": "i1",
+      "Project ID": "p1",
+      "Priority": 1,
+      "Creation date": "1999-01-01",
+      "Start date": "1999-01-02",
+      "Resolution date": "2021-12-03",
+      "Status": "RESOLVED"
+    },
+    {
+      "Issue ID": "i2",
+      "Project ID": "p1",
+      "Priority": 1,
+      "Creation date": "1999-01-01",
+      "Start date": "2021-12-04",
+      "Status": "IN_PROGRESS"
+    },
+    {
+      "Issue ID": "i3",
+      "Project ID": "p1",
+      "Priority": 1,
+      "Creation date": "1999-01-01",
+      "Status": "OPEN"
+    },
+    {
+      "Issue ID": "i4",
+      "Project ID": "p1",
+      "Priority": 1,
+      "Creation date": "1999-01-01",
+      "Status": "OPEN"
+    },
+    {
+      "Issue ID": "i5",
+      "Project ID": "p1",
+      "Priority": 1,
+      "Creation date": "1999-01-01",
+      "Status": "OPEN"
+    }
+  ]
+}

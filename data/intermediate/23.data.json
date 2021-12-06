@@ -1,0 +1,16 @@
+{
+  "Employee ID": "e1",
+  "first": "Peter",
+  "middle": "Ron",
+  "last": "Gibbons",
+  "DOB": "1993-01-01",
+  "Address number": 9,
+  "Address street": "Channel Street",
+  "Address city": "Houston",
+  "Address zip": 77001,
+  "Title": "Software engineer",
+  "TPS reports": 0,
+  "Employee Satisfaction": "Abysmal",
+  "Good for the company?": "Y",
+  "Comment": "Must be provided with memo (again)"
+}

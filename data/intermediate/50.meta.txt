@@ -1,0 +1,10 @@
+<root>
+	Employee ID     	_String
+	issues          	 (_Nes)
+		Issue ID        	_String
+		Project ID      	_String
+		Priority        	_Int
+		Creation date   	_String
+		Start date      	_String (_Opt)
+		Resolution date 	_String (_Opt)
+		Status          	_String
