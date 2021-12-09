@@ -8,6 +8,9 @@ lazy val root = (project in file("."))
     scalaVersion         := "2.13.7")
 
 // ---------------------------------------------------------------------------
+Compile/mainClass := Some("galliamedium.initech.InitechGallia")
+
+// ---------------------------------------------------------------------------
 libraryDependencies += "io.github.galliaproject" %% "gallia-core" % "0.3.1"
 
 // ===========================================================================

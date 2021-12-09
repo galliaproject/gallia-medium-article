@@ -3,10 +3,10 @@ package galliamedium.initech
 import gallia._ // assumes: libraryDependencies += "io.github.galliaproject" %% "gallia-core" % "0.3.1"
 
 // ===========================================================================
-object Initech {  
+object InitechGallia {  
 
   def main(args: Array[String]): Unit = {
-    Initech(
+    apply(
         // these will infer the schemas for convenience 
         projects  = s"$InputDir/projects.tsv" .stream(),
         employees = s"$InputDir/employees.tsv".stream(),
