@@ -53,7 +53,7 @@ object InitechGallia {
         .groupBy("Employee ID").as("issues")
         .transformObjects("issues").using {
           _ .countBy("Status") // defaults to "_count"        
-            .pivot(_count).column("Status")
+            .pivot(_count_all).column("Status")
               .asNewKeys("OPEN", "IN_PROGRESS", "RESOLVED") }
 
     // ---------------------------------------------------------------------------
